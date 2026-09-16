@@ -6,3 +6,5 @@ plotly>=5.20
 pillow>=10.0
 scikit-image>=0.22
 pytest>=8.0
+opencv-python-headless
+
