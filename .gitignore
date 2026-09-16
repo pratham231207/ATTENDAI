@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data/*.db
+data/students/*
+!data/students/.gitkeep
+*.egg-info/
+.DS_Store
